@@ -12,7 +12,7 @@ A demo mobile app for browsing movies, viewing showtimes, and saving simple rese
 
 - Showtimes: grouped by movie, halls and time slots; mini poster thumbnail in list items.
 
-- Seats: visual seat layout (non-interactive) with time buttons below ⇒ saves a My Reservation entry (movie + hall + time).
+- Seats: visual seat layout (non-interactive) with time buttons below -> saves a My Reservation entry (movie + hall + time).
 
 - My Reservations: list of saved entries (mini poster + delete one/all).
 
