@@ -2,7 +2,7 @@
 
 A demo mobile app for browsing movies, viewing showtimes, and saving simple reservations - no backend, all in-memory. Built with Flutter (Dart), Material 3 and Provider/ChangeNotifier state management.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Features**
 
@@ -32,7 +32,7 @@ A demo mobile app for browsing movies, viewing showtimes, and saving simple rese
 
 - Details – poster, metadata, overview, director, cast (chips), actions (showtimes / wishlist).
 
-- Showtimes – per-movie list (ExpansionTile) → hall + times; tap navigates to Seats.
+- Showtimes – per-movie list (ExpansionTile) -> hall + times; tap navigates to Seats.
 
 - Seats – seat grid (visual only), time buttons below; tap saves to My Reservations.
 
