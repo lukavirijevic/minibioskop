@@ -1,6 +1,6 @@
 # Minibioskop
 
-A demo mobile app for browsing movies, viewing showtimes, and saving simple reservations — no backend, all in-memory. Built with Flutter (Dart), Material 3 and Provider/ChangeNotifier state management.
+A demo mobile app for browsing movies, viewing showtimes, and saving simple reservations - no backend, all in-memory. Built with Flutter (Dart), Material 3 and Provider/ChangeNotifier state management.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
