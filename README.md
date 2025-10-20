@@ -20,7 +20,7 @@ A demo mobile app for browsing movies, viewing showtimes, and saving simple rese
 
 - Coming Soon: dedicated page with upcoming titles (no rating, no reservation).
 
-- Top 3: three top-rated movies (excludes ,,Coming Soo'').
+- Top 3: three top-rated movies (excludes ,,Coming Soon'').
 
 - Settings: light/dark theme toggle (ThemeMode).
 
@@ -28,7 +28,7 @@ A demo mobile app for browsing movies, viewing showtimes, and saving simple rese
 
 **Screens**
 
-- Home – search, ,,Top '' link, movie grid (excluding Coming Soon), FAB to showtimes, Drawer + NavigationBar.
+- Home – search, ,,Top 3'' link, movie grid (excluding Coming Soon), FAB to showtimes, Drawer + NavigationBar.
 
 - Details – poster, metadata, overview, director, cast (chips), actions (showtimes / wishlist).
 
