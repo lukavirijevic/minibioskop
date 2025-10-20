@@ -124,7 +124,7 @@ flutter run
 
 **Known Behavior / Limitations**
 
-- No database/persistence — everything is in-memory.
+- No database/persistence - everything is in-memory.
 
 - Seats are visual-only, not selectable or stored.
 
